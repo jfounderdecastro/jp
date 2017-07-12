@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Arimo|Lobster');
+
+.lead-text {
+    font-family: 'Lobster', cursive;
+    float:left;
+    margin-top: 10px;
+}
+
+
+.nav-links {
+    float:right;
+    margin-top: 10px;
+}
+
+.link {
+    padding:10px;
+    font-family: 'Arimo', sans-serif;
+    text-decoration: none;
+}
+
+.link:hover {
+    background-color: gray    
+}
+
+.navbar {
+    border-bottom : solid 1px;
+    height : 10vh;
+}
+
+body {
+    margin:0px;
+}
+
+.class-a {
+    height:70vh;
+    background-color : #000;
+}
+.class-b{
+    height :20vh;
+    background-color: #11400b;
+}
+
+.class-c{
+    height :250px;
+    width : 200px;
+    background-image : url("../images/KUBO.png");
+    background-size : 100%;
+    background-repeat  : no-repeat;
+    margin-top: -280px;
+    margin-left : 90px;
+}
+
